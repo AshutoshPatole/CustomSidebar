@@ -2,9 +2,11 @@
 
 A Custom Sidebar with beautiful animation
 
+# Screenshot
+![](/Images/Screenshot.jpg)
 
 # ⚙️ Built with Amazing Tools
--[Flutter](https://flutter.dev/) - Beautiful native apps in record time.
+- [Flutter](https://flutter.dev/) - Beautiful native apps in record time.
 
 - [Android Studio](https://developer.android.com/studio) - Tools for building Awesome apps on every type of Android device.
 
